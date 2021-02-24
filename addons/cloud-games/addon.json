@@ -13,6 +13,13 @@
     "icon": "../../images/icons/cloud.svg",
     "name": "Games"
   },
+  "settings": [
+    {
+      "name": "Studio ID to use",
+      "id": "studio",
+      "type": "string",
+      "default": "28943839"
+    }
   "tags": ["community", "recommended"],
   "enabledByDefault": true,
   "l10n": true
